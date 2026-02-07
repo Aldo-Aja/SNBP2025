@@ -1,0 +1,289 @@
+﻿keyword;mapel;bobot
+teknik;Matematika Tingkat Lanjut;3
+teknik;Fisika;2
+lingkungan;Kimia;4
+lingkungan;Matematika Tingkat Lanjut;2
+mesin;Fisika;4
+mesin;Matematika Tingkat Lanjut;2
+elektro;Fisika;4
+elektro;Matematika Tingkat Lanjut;2
+sipil;Fisika;3
+sipil;Matematika Tingkat Lanjut;2
+informatika;Matematika Tingkat Lanjut;4
+informatika;Bahasa Inggris;2
+komputer;Matematika Tingkat Lanjut;4
+komputer;Bahasa Inggris;3
+Matematika;Matematika Tingkat Lanjut;5
+Matematika;Fisika;4
+statistika;Matematika Tingkat Lanjut;4
+statistika;Ekonomi;3
+fisika;Fisika;4
+fisika;Matematika Tingkat Lanjut;2
+kimia;Kimia;4
+kimia;Matematika Tingkat Lanjut;2
+biologi;Biologi;4
+biologi;Kimia;2
+sains data;Matematika Tingkat Lanjut;4
+dokter;Kimia;4
+dokter;Biologi;5
+gigi;Kimia;5
+gigi;Biologi;4
+kedokteran;Biologi;4
+kedokteran;Kimia;4
+farmasi;Biologi;4
+farmasi;Kimia;4
+gizi;Biologi;5
+gizi;Kimia;4
+keperawatan;Biologi;4
+keperawatan;Kimia;3
+ekonomi;Ekonomi;4
+ekonomi;Matematika Tingkat Lanjut;2
+manajemen;Ekonomi;4
+manajemen;Matematika Tingkat Lanjut;2
+akuntansi;Ekonomi;4
+akuntansi;Matematika Tingkat Lanjut;2
+administrasi;Ekonomi;3
+hukum;PPKN;4
+hukum;Sosiologi;2
+komunikasi;Sosiologi;5
+komunikasi;Bahasa Indonesia;3
+arsitektur;Fisika;4
+arsitektur;Matematika;3
+senirupa;Bahasa Indonesia;4
+senirupa;Bahasa Inggris;3
+desain;Bahasa Indonesia;4
+desain;Matematika Tingkat Lanjut;2
+sastra;Bahasa Indonesia;5
+inggris;Bahasa Inggris;5
+jepang;Bahasa Jepang;5
+mandarin;Bahasa Mandarin;5
+cina;Bahasa Mandarin;5
+sastra cina;Bahasa Mandarin;4
+korea;Bahasa Korea;5
+arab;Bahasa Arab;5
+prancis;Bahasa Prancis;5
+jerman;Bahasa Jerman;5
+indonesia;Bahasa Inggris;4
+jawa;Bahasa Inggris;4
+perancis;Bahasa Inggris;4
+belanda;Bahasa Inggris;4
+rusia;Bahasa Inggris;4
+pendidikan;Bahasa Indonesia;10
+Geografi;Geografi;4
+sejarah;Sejarah;4
+sejarah;Antropologi;3
+sosiologi;Sosiologi;4
+PENDIDIKAN PANCASILA DAN KEWARGANEGARAAN;PPKN;4
+FAKULTAS ILMU DAN TEKNOLOGI KEBUMIAN (FITB);Geografi;4
+FAKULTAS ILMU DAN TEKNOLOGI KEBUMIAN (FITB);Matematika Tingkat Lanjut;3
+media;Sosiologi;5
+media;Bahasa Indonesia;4
+perencanaan;Fisika;4
+perencanaan;Matematika Tingkat Lanjut;3
+pangan;Kimia;5
+pangan;Biologi;4
+geologi;Geografi;5
+geologi;Fisika;4
+bioproses;Biologi;5
+bioproses;Kimia;4
+aktuaria;Matematika Tingkat Lanjut;5
+aktuaria;Ekonomi;4
+ANTROPOLOGI;Antropologi;5
+ANTROPOLOGI;Sosiologi;4
+Politik;Sosiologi;5
+Politik;PPKN;4
+Hubungan Internasional;Sosiologi;5
+Hubungan Internasional;PPKN;4
+Kriminologi;Sosiologi;5
+Kriminologi;PPKN;4
+Pemerintahan;Sosiologi;5
+Pemerintahan;PPKN;4
+Arkeologi;Geografi;5
+Arkeologi;Sejarah;4
+Terapi;Biologi;5
+Terapi;Kimia;4
+agribisnis;Ekonomi;5
+agribisnis;Biologi;4
+Manajemen Rekod dan Arsip;Ekonomi;5
+Manajemen Rekod dan Arsip;Matematika Tingkat Lanjut;4
+Perpustakaan;Ekonomi;5
+Perpustakaan;Matematika Tingkat Lanjut;4
+Agroteknologi;Biologi;5
+Agroteknologi;Kimia;4
+Keluarga;Sosiologi;5
+Keluarga;Ekonomi;4
+KESEJAHTERAAN KELUARGA;Sosiologi;5
+KESEJAHTERAAN KELUARGA;Ekonomi;4
+ILMU KELUARGA DAN KONSUMEN;Sosiologi;5
+ILMU KELUARGA DAN KONSUMEN;Ekonomi;4
+psikologi saintek;Biologi;5
+psikologi saintek;Matematika;3
+psikologi soshum;Sosiologi;5
+psikologi soshum;Bahasa Indonesia;3
+kesehatan;Biologi;5
+kesehatan;Kimia;4
+pendidikan kimia;Bahasa Indonesia;5
+pendidikan kimia;Kimia;4
+kimia;Kimia;5
+kimia;Matematika Tingkat Lanjut;4
+teknik kimia;Kimia;5
+teknik kimia;Fisika;5
+Teknik Geomatika;Matematika Tingkat Lanjut;5
+Teknik Geomatika;Fisika;4
+Hubungan Masyarakat;Sosiologi;5
+Hubungan Masyarakat;Bahasa Indonesia;4
+SENI;Bahasa Indonesia;5
+SENI;Matematika;4
+DKV;Bahasa Indonesia;5
+DKV;Matematika;4
+PENDIDIKAN DOKTER;Biologi;5
+PENDIDIKAN DOKTER;Kimia;5
+PENDIDIKAN DOKTER GIGI;Biologi;5
+PENDIDIKAN DOKTER GIGI;Kimia;4
+PENDIDIKAN HEWAN;Biologi;5
+PENDIDIKAN HEWAN;Kimia;4
+PETERNAKAN;Biologi;5
+PETERNAKAN;Kimia;4
+PERTANIAN;Biologi;5
+PERTANIAN;Kimia;4
+INFORMATIKA;Matematika;5
+INFORMATIKA;Fisika;4
+KELAUTAN;Biologi;5
+KELAUTAN;Kimia;4
+PGSD;Bahasa Indonesia;5
+PGSD;Matematika;4
+KESEKRETARIATAN;Ekonomi;5
+KESEKRETARIATAN;Matematika;4
+KEUANGAN;Ekonomi;5
+KEUANGAN;Matematika Tingkat Lanjut;4
+PERBANKAN;Ekonomi;5
+PERBANKAN;Matematika Tingkat Lanjut;4
+SOSIOLOGI;Sosiologi;5
+SOSIOLOGI;Bahasa Indonesia;4
+BIMBINGAN KONSELING;Bahasa Indonesia;5
+BIMBINGAN KONSELING;Matematika;4
+TANAMAN;Biologi;5
+TANAMAN;Kimia;4
+PANGAN;Biologi;5
+PANGAN;Kimia;4
+AGROEKOTEKNOLOGI;Ekonomi;5
+AGROEKOTEKNOLOGI;Biologi;4
+AGRONOMI;Biologi;5
+AGRONOMI;Kimia;4
+AKUAKULTUR;Biologi;5
+AKUAKULTUR;Kimia;4
+SISTEM INFORMASI;Matematika;5
+SISTEM INFORMASI;Ekonomi;4
+KEWIRAUSAHAAN;Ekonomi;5
+KEWIRAUSAHAAN;Matematika;4
+TEKNOLOGI INFORMASI;Matematika;5
+TEKNOLOGI INFORMASI;Fisika;4
+ADMINISTRASI;Ekonomi;5
+ADMINISTRASI;Matematika;4
+BISNIS DIGITAL;Ekonomi;5
+BISNIS DIGITAL;Matematika;4
+EKONOMI;Ekonomi;5
+EKONOMI;Matematika Tingkat Lanjut;4
+KEHUTANAN;Biologi;5
+KEHUTANAN;Kimia;4
+KESEJAHTERAAN SOSIAL;Sosiologi;5
+KESEJAHTERAAN SOSIAL;Ekonomi;4
+METROLOGI;Fisika;5
+METROLOGI;Matematika;4
+INSTRUMENTASI;Fisika;5
+INSTRUMENTASI;Matematika;4
+PERPAJAKAN;Ekonomi;5
+PERPAJAKAN;Matematika Tingkat Lanjut;4
+KEOLAHRAGAAN;Bahasa Indonesia;5
+KEOLAHRAGAAN;Matematika;4
+GEOGRAFI;Geografi;5
+GEOGRAFI;Sosiologi;4
+PANCASILA;Bahasa Indonesia;5
+PANCASILA;PPKN;4
+KEWARGANEGARAAN;Bahasa Indonesia;5
+KEWARGANEGARAAN;PPKN;4
+ILMU TANAH;Biologi;5
+ILMU TANAH;Kimia;4
+GEODESI;Fisika;5
+GEODESI;Matematika;4
+REKAYASA;Fisika;5
+REKAYASA;Matematika;4
+ANTROPOLOGI;Sosiologi;5
+ANTROPOLOGI;Antropologi;4
+BISNIS;Ekonomi;5
+BISNIS;Matematika Tingkat Lanjut;4
+FISKAL;Ekonomi;5
+FISKAL;Matematika;4
+HUBUNGAN MASYARAKAT;Sosiologi;5
+HUBUNGAN MASYARAKAT;Bahasa Indonesia;4
+SEKOLAH ILMU DAN TEKNOLOGI HAYATI - SAINS (SITH-S);Biologi;5
+SEKOLAH ILMU DAN TEKNOLOGI HAYATI - SAINS (SITH-S);Kimia;4
+SEKOLAH ILMU DAN TEKNOLOGI HAYATI - REKAYASA (SITH-R);Biologi;5
+SEKOLAH ILMU DAN TEKNOLOGI HAYATI - REKAYASA (SITH-R);Kimia;4
+SEKOLAH ILMU DAN TEKNOLOGI HAYATI - KAMPUS CIREBON (SITH-C);Biologi;5
+SEKOLAH ILMU DAN TEKNOLOGI HAYATI - KAMPUS CIREBON (SITH-C);Kimia;4
+FAKULTAS TEKNIK PERTAMBANGAN DAN PERMINYAKAN (FTTM);Fisika;5
+FAKULTAS TEKNIK PERTAMBANGAN DAN PERMINYAKAN (FTTM);Matematika Tingkat Lanjut;4
+FAKULTAS TEKNIK MESIN DAN DIRGANTARA (FTMD);Fisika;5
+FAKULTAS TEKNIK MESIN DAN DIRGANTARA (FTMD);Matematika Tingkat Lanjut;4
+SEKOLAH ARSITEKTUR, PERENCANAAN DAN PENGEMBANGAN KEBIJAKAN (SAPPK);Fisika;5
+SEKOLAH ARSITEKTUR, PERENCANAAN DAN PENGEMBANGAN KEBIJAKAN (SAPPK);Matematika Tingkat Lanjut;4
+FAKULTAS TEKNOLOGI INDUSTRI - KAMPUS CIREBON (FTI-C);Fisika;5
+FAKULTAS TEKNOLOGI INDUSTRI - KAMPUS CIREBON (FTI-C);Matematika Tingkat Lanjut;4
+SEKOLAH ARSITEKTUR, PERENCANAAN DAN PENGEMBANGAN KEBIJAKAN - KAMPUS CIREBON (SAPPK-C);Fisika;5
+SEKOLAH ARSITEKTUR, PERENCANAAN DAN PENGEMBANGAN KEBIJAKAN - KAMPUS CIREBON (SAPPK-C);Matematika Tingkat Lanjut;4
+FAKULTAS TEKNIK PERTAMBANGAN DAN PERMINYAKAN - KAMPUS CIREBON (FTTM-C);Fisika;5
+FAKULTAS TEKNIK PERTAMBANGAN DAN PERMINYAKAN - KAMPUS CIREBON (FTTM-C);Matematika Tingkat Lanjut;4
+FAKULTAS ILMU DAN TEKNOLOGI KEBUMIAN - KAMPUS CIREBON (FITB-C);Fisika;5
+FAKULTAS ILMU DAN TEKNOLOGI KEBUMIAN - KAMPUS CIREBON (FITB-C);Matematika Tingkat Lanjut;4
+FAKULTAS SENIRUPA DAN DESAIN (FSRD);Matematika;5
+FAKULTAS SENIRUPA DAN DESAIN (FSRD);Bahasa Indonesia;4
+SEKOLAH BISNIS DAN MANAJEMEN (SBM);Ekonomi;5
+SEKOLAH BISNIS DAN MANAJEMEN (SBM);Matematika Tingkat Lanjut;4
+FAKULTAS SENIRUPA DAN DESAIN - KAMPUS CIREBON (FSRD-C);Matematika;5
+FAKULTAS SENIRUPA DAN DESAIN - KAMPUS CIREBON (FSRD-C);Bahasa Indonesia;4
+FAKULTAS TEKNIK SIPIL DAN LINGKUNGAN - INFRASTRUKTUR SIPIL DAN KELAUTAN (FTSL-SI);Fisika;5
+FAKULTAS TEKNIK SIPIL DAN LINGKUNGAN - INFRASTRUKTUR SIPIL DAN KELAUTAN (FTSL-SI);Matematika Tingkat Lanjut;4
+FAKULTAS TEKNIK SIPIL DAN LINGKUNGAN - TEKNOLOGI LINGKUNGAN (FTSL-L);Fisika;5
+FAKULTAS TEKNIK SIPIL DAN LINGKUNGAN - TEKNOLOGI LINGKUNGAN (FTSL-L);Matematika Tingkat Lanjut;4
+FAKULTAS TEKNOLOGI INDUSTRI - SISTEM DAN PROSES (FTI-SP);Fisika;5
+FAKULTAS TEKNOLOGI INDUSTRI - SISTEM DAN PROSES (FTI-SP);Matematika Tingkat Lanjut;4
+FAKULTAS TEKNOLOGI INDUSTRI - REKAYASA INDUSTRI (FTI-RI);Fisika;5
+FAKULTAS TEKNOLOGI INDUSTRI - REKAYASA INDUSTRI (FTI-RI);Matematika Tingkat Lanjut;4
+SEKOLAH BISNIS DAN MANAJEMEN - KAMPUS CIREBON (SBM-C);Ekonomi;5
+SEKOLAH BISNIS DAN MANAJEMEN - KAMPUS CIREBON (SBM-C);Matematika;4
+PERIKLANAN KREATIF;Sosiologi;5
+PERIKLANAN KREATIF;Bahasa Indonesia;4
+media;Sosiologi;5
+media;Bahasa Indonesia;4
+pemasaran digital;Ekonomi;5
+pemasaran digital;Matematika;4
+biomedik;Fisika;5
+biomedik;Biologi;4
+PETERNAKAN;Biologi;5
+PETERNAKAN;Kimia;4
+perikanan;Biologi;5
+perikanan;Kimia;4
+TEKNIK INDUSTRI PERTANIAN;Biologi;5
+TEKNIK INDUSTRI PERTANIAN;Kimia;4
+DESAIN KOMUNIKASI VISUAL;Bahasa Indonesia;5
+DESAIN KOMUNIKASI VISUAL;Matematika;4
+PARAMEDIK VETERINER;Biologi;5
+PARAMEDIK VETERINER;Kimia;4
+HUTAN;Biologi;5
+HUTAN;Kimia;5
+ADMINISTRASI RUMAH SAKIT;Biologi;5
+ADMINISTRASI RUMAH SAKIT;Kimia;5
+multimedia;Bahasa Indonesia;4
+SISTEM INFORMASI;Fisika;5
+SISTEM INFORMASI;Matematika Tingkat Lanjut;4
+EKOWISATA;Biologi;5
+EKOWISATA;Kimia;4
+Teknik Telekomunikasi;Fisika;5
+Teknik Telekomunikasi;Matematika Tingkat Lanjut;4
+Teknik Komputer;Fisika;5
+Teknik Komputer;Matematika Tingkat Lanjut;4
+Perancangan;Fisika;5
+Perancangan;Matematika Tingkat Lanjut;4
+Desain Grafis;Matematika;6
+Desain Grafis;Bahasa Indonesia;6
